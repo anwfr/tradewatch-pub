@@ -1,4 +1,4 @@
-// [AIV_SHORT]  Build version: 1.0.0 - Thursday, March 16th, 2023, 9:01:21 AM  
+// [AIV_SHORT]  Build version: 1.0.0 - Thursday, March 16th, 2023, 10:19:36 AM  
  var __wpo = {
   "assets": {
     "main": [
@@ -106,11 +106,11 @@
     "d5ff21e3e3333dacb414df866d5066c410c8a8bd": "/29.ca74031ea67e69a20cdf.chunk.js",
     "f3542400c8c2d5ef5ff63487f86baebba067a2ce": "/30.b1c58c2be516d3dda18f.chunk.js",
     "319ced38193d1516184c9f3ef8622e57ed2a8812": "/31.35a4988b1178a45a5855.chunk.js",
-    "732d43f110d27b94765826413e1f53150ac51654": "/"
+    "11523102d14659814d9c52d7a686c61871950992": "/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "3/16/2023, 9:01:20 AM",
+  "version": "3/16/2023, 10:19:35 AM",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
