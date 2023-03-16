@@ -1,4 +1,4 @@
-// [AIV_SHORT]  Build version: 1.0.0 - Thursday, February 16th, 2023, 3:58:15 PM  
+// [AIV_SHORT]  Build version: 1.0.0 - Thursday, March 16th, 2023, 9:01:21 AM  
  var __wpo = {
   "assets": {
     "main": [
@@ -28,10 +28,10 @@
       "/npm.react-select.ed68f749578cdf3e2eff.chunk.js",
       "/npm.fbjs.57c02b348cd4c0a1aed6.chunk.js",
       "/npm.intl.3eb717566a927140c957.chunk.js",
-      "/main.d6b476a8059c2c1b1c35.chunk.js",
+      "/main.ec554b8d1a8b8c354e91.chunk.js",
       "/npm.bitcoinjs-lib.03f1d99a39bbd0e46320.chunk.js",
-      "/npm.ccxt.50c19b2c352fc30a853d.chunk.js",
-      "/npm.core-js.0af6ccee8bb5381205c1.chunk.js",
+      "/npm.core-js.3bf915634c801ad6e1c5.chunk.js",
+      "/npm.crypto-js.7f990ec46754606668ee.chunk.js",
       "/npm.match-sorter.e665e9b85390439ad2a9.chunk.js",
       "/npm.moment.de577b307ada35c69be5.chunk.js",
       "/npm.react-app-polyfill.aa9fb608d6d6e9fd519a.chunk.js",
@@ -80,10 +80,10 @@
     "1418b0480a5756cbcd4c2e3ba3b9667429db4aff": "/npm.react-select.ed68f749578cdf3e2eff.chunk.js",
     "8ff079f0f515c12cdd5129ca633dbf3b5043682f": "/npm.fbjs.57c02b348cd4c0a1aed6.chunk.js",
     "1b762801be960446f6c6d459a1187834798ec1dd": "/npm.intl.3eb717566a927140c957.chunk.js",
-    "6276b47cd2016135ab8e18347681c00eced5cf4b": "/main.d6b476a8059c2c1b1c35.chunk.js",
+    "4d7cd943a7ac1876261a08d27f206fcddb731d38": "/main.ec554b8d1a8b8c354e91.chunk.js",
     "b7eb49cd343bf6dadc155b20f86ca7d480832a25": "/npm.bitcoinjs-lib.03f1d99a39bbd0e46320.chunk.js",
-    "854e55f591784427b8ced6a535bb58b03f4a2089": "/npm.ccxt.50c19b2c352fc30a853d.chunk.js",
-    "1c1e387bfddcaabd13ff6e71d9889ada9dc018f5": "/npm.core-js.0af6ccee8bb5381205c1.chunk.js",
+    "00cdf92b757cde23096c057f28d6b9cc4644444e": "/npm.core-js.3bf915634c801ad6e1c5.chunk.js",
+    "0583c32e38d163ef009970155c1db282146d6472": "/npm.crypto-js.7f990ec46754606668ee.chunk.js",
     "8cefb41c72d32d7cc9d4b98a97e5345d190b1806": "/npm.match-sorter.e665e9b85390439ad2a9.chunk.js",
     "0cc29470ecdfc9984832a0f96c7601674386ddc7": "/npm.moment.de577b307ada35c69be5.chunk.js",
     "69fdc117b8f544ea62978d8ad76c9aa9d422482a": "/npm.react-app-polyfill.aa9fb608d6d6e9fd519a.chunk.js",
@@ -106,11 +106,11 @@
     "d5ff21e3e3333dacb414df866d5066c410c8a8bd": "/29.ca74031ea67e69a20cdf.chunk.js",
     "f3542400c8c2d5ef5ff63487f86baebba067a2ce": "/30.b1c58c2be516d3dda18f.chunk.js",
     "319ced38193d1516184c9f3ef8622e57ed2a8812": "/31.35a4988b1178a45a5855.chunk.js",
-    "cfcc372e86b256cd23f26fc72619a795c4f27dfb": "/"
+    "732d43f110d27b94765826413e1f53150ac51654": "/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "2/16/2023, 3:58:14 PM",
+  "version": "3/16/2023, 9:01:20 AM",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
